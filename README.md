@@ -160,8 +160,8 @@ make lint
 
 Настройки сервиса хранятся в файле `./internal/config/config.yml`:
 ```yaml
-s
-port: 8080
+server:
+  port: 8080
 ```
 
 ## Технические детали
