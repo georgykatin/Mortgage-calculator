@@ -115,8 +115,8 @@
 
 1. Клонировать репозиторий:
 ```bash
-git clone https://github.com/yourusername/mortgage-calculator.git
-cd mortgage-calculator
+git clone https://github.com/georgykatin/Mortgage-calculator.git
+cd Mortgage-calculator
 ```
 
 2. Запустить с помощью Makefile:
