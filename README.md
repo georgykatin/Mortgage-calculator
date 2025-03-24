@@ -1,7 +1,6 @@
 # Ипотечный калькулятор
 
 [![Go Version](https://img.shields.io/badge/go-1.22+-blue.svg)](https://golang.org/dl/)
-![Repository Top Language](https://img.shields.io/github/languages/top/evt/callback)
 
 ### Сервис для расчета параметров ипотеки с кэшированием результатов.
 
